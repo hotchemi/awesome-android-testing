@@ -52,6 +52,14 @@ Of course it sometimes includes google's official stuff.
 - [calculon](https://github.com/mttkay/calculon)
 - [AWS Device Farm](https://aws.amazon.com/jp/device-farm/)
 
+## DI
+
+Basically dependency injection is important for testing because you can change particular implementation detail in a debug or test build.
+
+- [Dagger2](http://google.github.io/dagger/)
+- [Dagger](http://square.github.io/dagger/)
+- [roboguice](https://github.com/roboguice/roboguice)
+
 ## Documents
 
 - [Testing](http://developer.android.com/tools/testing/index.html)
