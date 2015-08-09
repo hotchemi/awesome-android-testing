@@ -57,6 +57,7 @@ Of course it sometimes includes google's official stuff.
 - [Testing](http://developer.android.com/tools/testing/index.html)
 - [Best Practices for Testing](https://developer.android.com/training/testing.html)
 - [Android Testing Tools](https://developer.android.com/tools/testing/testing-tools.html)
+- [Testing Display Performance](https://developer.android.com/preview/testing/performance.html)
 
 ## Sample
 
