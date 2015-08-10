@@ -25,6 +25,7 @@ Of course it sometimes includes google's official stuff.
 - [UI Automator](https://developer.android.com/tools/testing-support-library/index.html#UIAutomator)
 - [calabash-android](https://github.com/calabash/calabash-android)
 - [appium](https://github.com/appium/appium)
+- [DroidDriver](https://github.com/appium/droiddriver)
 - [selendroid](https://github.com/selendroid/selendroid)
 
 ## Recorder
