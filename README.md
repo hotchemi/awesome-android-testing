@@ -38,6 +38,7 @@ Of course it sometimes includes google's official stuff.
 - [AssertJ](http://joel-costigliola.github.io/assertj/)
 - [assertj-android](https://github.com/square/assertj-android)
 - [android-power-assert-plugin](https://github.com/gfx/android-power-assert-plugin)
+- [truth](https://github.com/google/truth)
 
 ## Mock
 
