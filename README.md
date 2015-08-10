@@ -6,11 +6,11 @@ Of course it sometimes includes google's official stuff.
 
 ## Unit Test
 
-- [junit](https://github.com/junit-team/junit)
+- [JUnit](https://github.com/junit-team/junit)
 - [AndroidJUnitRunner](https://developer.android.com/tools/testing-support-library/index.html#AndroidJUnitRunner)
-- [robolectric](https://github.com/robolectric/robolectric)
+- [Robolectric](https://github.com/robolectric/robolectric)
 - [RoboSpock](https://github.com/robospock/RoboSpock)
-- [burst](https://github.com/square/burst)
+- [Burst](https://github.com/square/burst)
 
 ## Integration Test
 
@@ -46,7 +46,7 @@ Of course it sometimes includes google's official stuff.
 - [easymock](https://github.com/easymock/easymock)
 - [rxmocks](https://github.com/novoda/rxmocks)
 
-### Mock server
+### Mock Server
 
 - [okhttp/mockwebserver](https://github.com/square/okhttp/tree/master/mockwebserver)
 - [WireMock](http://wiremock.org/)
@@ -64,7 +64,7 @@ Of course it sometimes includes google's official stuff.
 
 ## DI
 
-Basically dependency injection is important for testing because you can change particular implementation detail in a debug or test build.
+Basically dependency injection is important for testing because you can change the particular implementation detail in a debug or test build.
 
 - [Dagger2](http://google.github.io/dagger/)
 - [Dagger](http://square.github.io/dagger/)
