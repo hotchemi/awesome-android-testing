@@ -16,6 +16,7 @@ Of course it sometimes includes google's official stuff.
 
 - [espresso](https://developer.android.com/tools/testing-support-library/index.html#Espresso)
 - [rxpresso](https://github.com/novoda/rxpresso)
+- [robotium](https://github.com/RobotiumTech/robotium)
 - [spoon](https://github.com/square/spoon)
 - [spoon-gradle-plugin](https://github.com/stanfy/spoon-gradle-plugin)
 
@@ -24,8 +25,12 @@ Of course it sometimes includes google's official stuff.
 - [UI Automator](https://developer.android.com/tools/testing-support-library/index.html#UIAutomator)
 - [calabash-android](https://github.com/calabash/calabash-android)
 - [appium](https://github.com/appium/appium)
-- [robotium](https://github.com/RobotiumTech/robotium)
 - [selendroid](https://github.com/selendroid/selendroid)
+
+## Recorder
+
+- [appium-dot-app](https://github.com/appium/appium-dot-app)
+- [Robotium Recorder](http://robotium.com/products/robotium-recorder)
 
 ## Assertion
 
@@ -44,7 +49,7 @@ Of course it sometimes includes google's official stuff.
 
 ## Monkey Test
 
-- [monkeyrunner](https://developer.android.com/tools/help/monkeyrunner_concepts.html)
+- [monkey](https://developer.android.com/tools/help/monkey.html)
 - [Cloud Test Lab](https://developers.google.com/cloud-test-lab/?hl=en)
 
 ## Others
