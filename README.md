@@ -14,19 +14,19 @@ Of course it sometimes includes google's official stuff.
 
 ## Integration Test
 
-- [espresso](https://developer.android.com/tools/testing-support-library/index.html#Espresso)
+- [Espresso](https://developer.android.com/tools/testing-support-library/index.html#Espresso)
 - [rxpresso](https://github.com/novoda/rxpresso)
-- [robotium](https://github.com/RobotiumTech/robotium)
-- [spoon](https://github.com/square/spoon)
+- [Robotium](https://github.com/RobotiumTech/robotium)
+- [Spoon](https://github.com/square/spoon)
 - [spoon-gradle-plugin](https://github.com/stanfy/spoon-gradle-plugin)
 
 ## E2E Test
 
 - [UI Automator](https://developer.android.com/tools/testing-support-library/index.html#UIAutomator)
-- [calabash-android](https://github.com/calabash/calabash-android)
-- [appium](https://github.com/appium/appium)
+- [Calabash-android](https://github.com/calabash/calabash-android)
+- [Appium](https://github.com/appium/appium)
 - [DroidDriver](https://github.com/appium/droiddriver)
-- [selendroid](https://github.com/selendroid/selendroid)
+- [Selendroid](https://github.com/selendroid/selendroid)
 
 ## Recorder
 
@@ -58,10 +58,21 @@ Of course it sometimes includes google's official stuff.
 - [monkey](https://developer.android.com/tools/help/monkey.html)
 - [Cloud Test Lab](https://developers.google.com/cloud-test-lab/?hl=en)
 
+## TaaS
+TaaS stands for Test as a Service. Usually, TaaS provides us test platform like running test cases and its report.
+
+- [Google Cloud Test Labs](https://developers.google.com/cloud-test-lab/)
+- [AWS Device Farm](https://aws.amazon.com/jp/device-farm/)
+    - [AppThwack](https://appthwack.com/landing)
+- [SauceLabs](https://saucelabs.com/)
+- [Testdroid](http://testdroid.com/)
+- [Testmunk](https://testmunk.com/)
+- [Scirocco Cloud](http://www.scirocco-cloud.com/ja/price.html)
+- [Remote TestKit](https://appkitbox.com/)
+
 ## Others
 
 - [calculon](https://github.com/mttkay/calculon)
-- [AWS Device Farm](https://aws.amazon.com/jp/device-farm/)
 - [compile-testing](https://github.com/google/compile-testing)
 
 ## DI
