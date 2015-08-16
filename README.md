@@ -56,12 +56,13 @@ Of course it sometimes includes google's official stuff.
 ## Monkey Test
 
 - [monkey](https://developer.android.com/tools/help/monkey.html)
-- [Cloud Test Lab](https://developers.google.com/cloud-test-lab/?hl=en)
+- [Cloud Test Lab](https://developers.google.com/cloud-test-lab/)
+- [AWS Device Farm](https://aws.amazon.com/jp/device-farm/)
 
 ## TaaS
 TaaS stands for Test as a Service. Usually, TaaS provides us test platform like running test cases and its report.
 
-- [Google Cloud Test Labs](https://developers.google.com/cloud-test-lab/)
+- [Cloud Test Lab](https://developers.google.com/cloud-test-lab/)
 - [AWS Device Farm](https://aws.amazon.com/jp/device-farm/)
     - [AppThwack](https://appthwack.com/landing)
 - [SauceLabs](https://saucelabs.com/)
@@ -69,6 +70,7 @@ TaaS stands for Test as a Service. Usually, TaaS provides us test platform like 
 - [Testmunk](https://testmunk.com/)
 - [Scirocco Cloud](http://www.scirocco-cloud.com/ja/price.html)
 - [Remote TestKit](https://appkitbox.com/)
+- [Xamarin Test Cloud](http://xamarin.com/test-cloud)
 
 ## Others
 
