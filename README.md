@@ -25,13 +25,17 @@ Of course it sometimes includes google's official stuff.
 - [UI Automator](https://developer.android.com/tools/testing-support-library/index.html#UIAutomator)
 - [Calabash-android](https://github.com/calabash/calabash-android)
 - [Appium](https://github.com/appium/appium)
+    - [Appium Clients](https://github.com/appium/appium/blob/master/docs/en/about-appium/appium-clients.md)
 - [DroidDriver](https://github.com/appium/droiddriver)
 - [Selendroid](https://github.com/selendroid/selendroid)
+- [eggPlant](http://www.testplant.com/eggplant/testing-tools/eggplant-mobile-eggon/)
+- [Monket Talk](https://www.cloudmonkeymobile.com/monkeytalk)
 
 ## Recorder
 
 - [appium-dot-app](https://github.com/appium/appium-dot-app)
 - [Robotium Recorder](http://robotium.com/products/robotium-recorder)
+- [Monkey Talk](https://www.cloudmonkeymobile.com/monkeytalk)
 
 ## Assertion
 
@@ -71,6 +75,7 @@ TaaS stands for Test as a Service. Usually, TaaS provides us test platform like 
 - [Scirocco Cloud](http://www.scirocco-cloud.com/ja/price.html)
 - [Remote TestKit](https://appkitbox.com/)
 - [Xamarin Test Cloud](http://xamarin.com/test-cloud)
+- [CloudMonkey LabManager](https://www.cloudmonkeymobile.com/labmanager)
 
 ## Others
 
