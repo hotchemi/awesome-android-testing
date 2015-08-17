@@ -30,6 +30,7 @@ Of course it sometimes includes google's official stuff.
 - [Selendroid](https://github.com/selendroid/selendroid)
 - [eggPlant](http://www.testplant.com/eggplant/testing-tools/eggplant-mobile-eggon/)
 - [Monket Talk](https://www.cloudmonkeymobile.com/monkeytalk)
+- [Magneto](https://github.com/EverythingMe/magneto)
 
 ## Recorder
 
