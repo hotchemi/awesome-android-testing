@@ -4,7 +4,7 @@ A curated list of awesome android testing libraries.
 
 Of course it sometimes includes google's official stuff.
 
-## Unit Test
+## Unit Test Framework
 
 - [JUnit](https://github.com/junit-team/junit)
 - [AndroidJUnitRunner](https://developer.android.com/tools/testing-support-library/index.html#AndroidJUnitRunner)
@@ -12,7 +12,7 @@ Of course it sometimes includes google's official stuff.
 - [RoboSpock](https://github.com/robospock/RoboSpock)
 - [Burst](https://github.com/square/burst)
 
-## Integration Test
+## Integration Test Framework
 
 - [Espresso](https://developer.android.com/tools/testing-support-library/index.html#Espresso)
 - [rxpresso](https://github.com/novoda/rxpresso)
@@ -20,7 +20,7 @@ Of course it sometimes includes google's official stuff.
 - [Spoon](https://github.com/square/spoon)
 - [spoon-gradle-plugin](https://github.com/stanfy/spoon-gradle-plugin)
 
-## E2E Test
+## E2E Test Framework
 
 - [UI Automator](https://developer.android.com/tools/testing-support-library/index.html#UIAutomator)
 - [Calabash-android](https://github.com/calabash/calabash-android)
