@@ -77,6 +77,7 @@ TaaS stands for Test as a Service. Usually, TaaS provides us test platform like 
 - [Remote TestKit](https://appkitbox.com/)
 - [Xamarin Test Cloud](http://xamarin.com/test-cloud)
 - [CloudMonkey LabManager](https://www.cloudmonkeymobile.com/labmanager)
+- [TestObject](https://testobject.com/)
 
 ## Others
 
