@@ -84,14 +84,6 @@ TaaS stands for Test as a Service. Usually, TaaS provides us test platform like 
 - [calculon](https://github.com/mttkay/calculon)
 - [compile-testing](https://github.com/google/compile-testing)
 
-## DI
-
-Basically dependency injection is important for testing because you can change the particular implementation detail in a debug or test build.
-
-- [Dagger2](http://google.github.io/dagger/)
-- [Dagger](http://square.github.io/dagger/)
-- [roboguice](https://github.com/roboguice/roboguice)
-
 ## Documents
 
 - [Testing](http://developer.android.com/tools/testing/index.html)
