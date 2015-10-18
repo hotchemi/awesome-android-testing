@@ -95,6 +95,7 @@ TaaS stands for Test as a Service. Usually, TaaS provides us test platform like 
 
 - [calculon](https://github.com/mttkay/calculon)
 - [compile-testing](https://github.com/google/compile-testing)
+- [screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android)
 
 ## Documents
 
