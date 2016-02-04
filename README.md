@@ -12,7 +12,8 @@ Of course it sometimes includes google's official stuff.
 - [AndroidJUnitRunner](https://developer.android.com/tools/testing-support-library/index.html#AndroidJUnitRunner)
 - [Robolectric](https://github.com/robolectric/robolectric)
 - [RoboSpock](https://github.com/robospock/RoboSpock)
- 
+- [Spec](https://github.com/JetBrains/spek) (Kotlin)
+
 ### Library
 
 - [Burst](https://github.com/square/burst)
@@ -88,7 +89,6 @@ TaaS stands for Test as a Service. Usually, TaaS provides us test platform like 
 - [Scirocco Cloud](http://www.scirocco-cloud.com/ja/price.html)
 - [Remote TestKit](https://appkitbox.com/)
 - [Xamarin Test Cloud](http://xamarin.com/test-cloud)
-- [CloudMonkey LabManager](https://www.cloudmonkeymobile.com/labmanager)
 - [TestObject](https://testobject.com/)
 
 ## Others
@@ -96,6 +96,7 @@ TaaS stands for Test as a Service. Usually, TaaS provides us test platform like 
 - [calculon](https://github.com/mttkay/calculon)
 - [compile-testing](https://github.com/google/compile-testing)
 - [screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android)
+- [Mobile-Security-Framework-MobSF](https://github.com/ajinabraham/Mobile-Security-Framework-MobSF)
 
 ## Documents
 
