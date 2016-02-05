@@ -12,7 +12,7 @@ Of course it sometimes includes google's official stuff.
 - [AndroidJUnitRunner](https://developer.android.com/tools/testing-support-library/index.html#AndroidJUnitRunner)
 - [Robolectric](https://github.com/robolectric/robolectric)
 - [RoboSpock](https://github.com/robospock/RoboSpock)
-- [Spec](https://github.com/JetBrains/spek) (Kotlin)
+- [Spek](https://github.com/JetBrains/spek) (Kotlin)
 
 ### Library
 
