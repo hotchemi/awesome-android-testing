@@ -97,6 +97,7 @@ TaaS stands for Test as a Service. Usually, TaaS provides us test platform like 
 - [compile-testing](https://github.com/google/compile-testing)
 - [screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android)
 - [Mobile-Security-Framework-MobSF](https://github.com/ajinabraham/Mobile-Security-Framework-MobSF)
+- [OpenSTF](https://github.com/openstf) (2.x support API to control devices remotely.)
 
 ## Documents
 
