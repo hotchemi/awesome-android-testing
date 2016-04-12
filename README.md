@@ -2,7 +2,7 @@
 
 A curated list of awesome android testing libraries.
 
-Of course it sometimes includes google's official stuff.
+Of course it sometimes includes google's official one.
 
 ## Unit Test
 
