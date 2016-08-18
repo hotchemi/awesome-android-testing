@@ -46,6 +46,10 @@ Of course it sometimes includes google's official one.
 - [Monket Talk](https://www.cloudmonkeymobile.com/monkeytalk)
 - [Magneto](https://github.com/EverythingMe/magneto)
 
+### Helper
+- [DroidTestHelper](https://github.com/KazuCocoa/DroidTestHelper)
+
+
 ## Recorder
 
 - [appium-dot-app](https://github.com/appium/appium-dot-app)
