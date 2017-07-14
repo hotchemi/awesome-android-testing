@@ -63,6 +63,7 @@ Of course it sometimes includes google's official one.
 ## Mock
 
 - [mockito](https://github.com/mockito/mockito)
+- [mockito](https://github.com/nhaarman/mockito-kotlin) (Kotlin)
 - [powermock](https://github.com/jayway/powermock)
 - [easymock](https://github.com/easymock/easymock)
 - [rxmocks](https://github.com/novoda/rxmocks)
