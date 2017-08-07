@@ -96,7 +96,7 @@ TaaS stands for Test as a Service. Usually, TaaS provides us test platform like 
 - [Kobiton](https://kobiton.com)
 
 ## IDE
-- [Kataron](https://www.katalon.com)
+- [Katalon](https://www.katalon.com)
 - [Appium Studio](https://experitest.com/appium-studio/)
 
 ## Others
