@@ -32,6 +32,7 @@ Of course it sometimes includes google's official one.
 - [spoon-gradle-plugin](https://github.com/stanfy/spoon-gradle-plugin)
 - [test-butler](https://github.com/linkedin/test-butler)
 - [composer](https://github.com/gojuno/composer)
+- [Barista](https://github.com/SchibstedSpain/Barista)
 
 ## E2E Test
 
