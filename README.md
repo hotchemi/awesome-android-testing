@@ -95,6 +95,7 @@ TaaS stands for Test as a Service. Usually, TaaS provides us test platform like 
 - [Remote TestKit](https://appkitbox.com/)
 - [Xamarin Test Cloud](http://xamarin.com/test-cloud)
 - [Kobiton](https://kobiton.com)
+- [Mobilebox](http://mobileboxlab.com/en/)
 
 ## IDE
 - [Katalon](https://www.katalon.com)
@@ -107,6 +108,7 @@ TaaS stands for Test as a Service. Usually, TaaS provides us test platform like 
 - [screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android)
 - [Mobile-Security-Framework-MobSF](https://github.com/ajinabraham/Mobile-Security-Framework-MobSF)
 - [OpenSTF](https://github.com/openstf) (2.x support API to control devices remotely.)
+- [Appium Java REPL](https://mobileboxlab.github.io/appium-java-repl/index.html)
 
 ## Documents
 
