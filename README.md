@@ -84,6 +84,7 @@ Of course it sometimes includes google's official one.
 
 ## TaaS
 TaaS stands for Test as a Service. Usually, TaaS provides us test platform like running test cases and its report.
+Some services are interesting since they don't provide only **running tests on their device farm**
 
 - [Cloud Test Lab](https://developers.google.com/cloud-test-lab/)
 - [AWS Device Farm](https://aws.amazon.com/jp/device-farm/)
@@ -96,6 +97,8 @@ TaaS stands for Test as a Service. Usually, TaaS provides us test platform like 
 - [Xamarin Test Cloud](http://xamarin.com/test-cloud)
 - [Kobiton](https://kobiton.com)
 - [Mobilebox](http://mobileboxlab.com/en/)
+- [HeadSpin](https://www.headspin.io)
+- [test.ai](http://test.ai)
 
 ## IDE
 - [Katalon](https://www.katalon.com)
