@@ -46,6 +46,8 @@ Of course it sometimes includes google's official one.
 - [Selendroid](https://github.com/selendroid/selendroid)
 - [eggPlant](http://www.testplant.com/eggplant/testing-tools/eggplant-mobile-eggon/)
 - [Magneto](https://github.com/EverythingMe/magneto)
+- [Airtest](https://github.com/AirtestProject/Airtest)
+- [Poco](https://github.com/AirtestProject/Poco)
 
 ### Helper
 - [DroidTestHelper](https://github.com/KazuCocoa/DroidTestHelper)
