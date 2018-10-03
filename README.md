@@ -52,13 +52,12 @@ Of course it sometimes includes google's official one.
 
 ## Recorder
 
-- [appium-dot-app](https://github.com/appium/appium-dot-app)
-- [Robotium Recorder](http://robotium.com/products/robotium-recorder)
+- [appium-desktop](https://github.com/appium/appium-desktop)
+- [Espresso Test Recorder](https://developer.android.com/studio/test/espresso-test-recorder)
 
 ## Assertion
 
 - [AssertJ](http://joel-costigliola.github.io/assertj/)
-- [assertj-android](https://github.com/square/assertj-android)
 - [android-power-assert-plugin](https://github.com/gfx/android-power-assert-plugin)
 - [truth](https://github.com/google/truth)
 
@@ -69,6 +68,7 @@ Of course it sometimes includes google's official one.
 - [powermock](https://github.com/jayway/powermock)
 - [easymock](https://github.com/easymock/easymock)
 - [rxmocks](https://github.com/novoda/rxmocks)
+- [mockk](https://github.com/mockk/mockk)
 
 ### Mock Server
 
@@ -88,13 +88,11 @@ Some services are interesting since they don't provide only **running tests on t
 
 - [Cloud Test Lab](https://developers.google.com/cloud-test-lab/)
 - [AWS Device Farm](https://aws.amazon.com/jp/device-farm/)
-    - [AppThwack](https://appthwack.com/landing)
 - [SauceLabs](https://saucelabs.com/)
-    - [TestObject](https://testobject.com/)
 - [Testdroid](http://testdroid.com/)
 - [Scirocco Cloud](http://www.scirocco-cloud.com/ja/price.html)
 - [Remote TestKit](https://appkitbox.com/)
-- [Xamarin Test Cloud](http://xamarin.com/test-cloud)
+- [App Center](https://appcenter.ms)
 - [Kobiton](https://kobiton.com)
 - [Mobilebox](http://mobileboxlab.com/en/)
 - [HeadSpin](https://www.headspin.io)
