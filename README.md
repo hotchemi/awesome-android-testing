@@ -97,6 +97,7 @@ Some services are interesting since they don't provide only **running tests on t
 - [Mobilebox](http://mobileboxlab.com/en/)
 - [HeadSpin](https://www.headspin.io)
 - [test.ai](http://test.ai)
+- [Magic Pod](https://magic-pod.com)
 
 ## IDE
 - [Katalon](https://www.katalon.com)
