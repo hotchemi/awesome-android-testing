@@ -95,6 +95,7 @@ TaaS stands for Test as a Service. Usually, TaaS provides us test platform like 
 - [Remote TestKit](https://appkitbox.com/)
 - [Xamarin Test Cloud](http://xamarin.com/test-cloud)
 - [Kobiton](https://kobiton.com)
+- [Firebase Test Lab](https://firebase.google.com/docs/test-lab/)
 
 ## IDE
 - [Katalon](https://www.katalon.com)
