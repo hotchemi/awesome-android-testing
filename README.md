@@ -100,6 +100,7 @@ Some services are interesting since they don't provide only **running tests on t
 - [HeadSpin](https://www.headspin.io)
 - [test.ai](http://test.ai)
 - [Magic Pod](https://magic-pod.com/en/)
+- [Firebase Test Lab](https://firebase.google.com/docs/test-lab/)
 
 ## IDE
 - [Katalon](https://www.katalon.com)
