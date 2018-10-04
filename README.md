@@ -29,7 +29,8 @@ Of course it sometimes includes google's official one.
 
 - [rxpresso](https://github.com/novoda/rxpresso)
 - [Spoon](https://github.com/square/spoon)
-- [spoon-gradle-plugin](https://github.com/stanfy/spoon-gradle-plugin)
+- [spoon-gradle-plugin (Gradle plugin 2.x)](https://github.com/stanfy/spoon-gradle-plugin)
+- [spoon-gradle-plugin (Gradle plugin 3.x)](https://github.com/jaredsburrows/gradle-spoon-plugin)
 - [test-butler](https://github.com/linkedin/test-butler)
 - [composer](https://github.com/gojuno/composer)
 - [Barista](https://github.com/SchibstedSpain/Barista)
