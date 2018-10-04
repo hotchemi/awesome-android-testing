@@ -46,19 +46,20 @@ Of course it sometimes includes google's official one.
 - [Selendroid](https://github.com/selendroid/selendroid)
 - [eggPlant](http://www.testplant.com/eggplant/testing-tools/eggplant-mobile-eggon/)
 - [Magneto](https://github.com/EverythingMe/magneto)
+- [Airtest](https://github.com/AirtestProject/Airtest)
+- [Poco](https://github.com/AirtestProject/Poco)
 
 ### Helper
 - [DroidTestHelper](https://github.com/KazuCocoa/DroidTestHelper)
 
 ## Recorder
 
-- [appium-dot-app](https://github.com/appium/appium-dot-app)
-- [Robotium Recorder](http://robotium.com/products/robotium-recorder)
+- [appium-desktop](https://github.com/appium/appium-desktop)
+- [Espresso Test Recorder](https://developer.android.com/studio/test/espresso-test-recorder)
 
 ## Assertion
 
 - [AssertJ](http://joel-costigliola.github.io/assertj/)
-- [assertj-android](https://github.com/square/assertj-android)
 - [android-power-assert-plugin](https://github.com/gfx/android-power-assert-plugin)
 - [truth](https://github.com/google/truth)
 
@@ -69,6 +70,7 @@ Of course it sometimes includes google's official one.
 - [powermock](https://github.com/jayway/powermock)
 - [easymock](https://github.com/easymock/easymock)
 - [rxmocks](https://github.com/novoda/rxmocks)
+- [mockk](https://github.com/mockk/mockk)
 
 ### Mock Server
 
@@ -84,17 +86,20 @@ Of course it sometimes includes google's official one.
 
 ## TaaS
 TaaS stands for Test as a Service. Usually, TaaS provides us test platform like running test cases and its report.
+Some services are interesting since they don't provide only **running tests on their device farm**
 
 - [Cloud Test Lab](https://developers.google.com/cloud-test-lab/)
 - [AWS Device Farm](https://aws.amazon.com/jp/device-farm/)
-    - [AppThwack](https://appthwack.com/landing)
 - [SauceLabs](https://saucelabs.com/)
-    - [TestObject](https://testobject.com/)
 - [Testdroid](http://testdroid.com/)
 - [Scirocco Cloud](http://www.scirocco-cloud.com/ja/price.html)
 - [Remote TestKit](https://appkitbox.com/)
-- [Xamarin Test Cloud](http://xamarin.com/test-cloud)
+- [App Center](https://appcenter.ms)
 - [Kobiton](https://kobiton.com)
+- [Mobilebox](http://mobileboxlab.com/en/)
+- [HeadSpin](https://www.headspin.io)
+- [test.ai](http://test.ai)
+- [Magic Pod](https://magic-pod.com/en/)
 - [Firebase Test Lab](https://firebase.google.com/docs/test-lab/)
 
 ## IDE
@@ -108,6 +113,7 @@ TaaS stands for Test as a Service. Usually, TaaS provides us test platform like 
 - [screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android)
 - [Mobile-Security-Framework-MobSF](https://github.com/ajinabraham/Mobile-Security-Framework-MobSF)
 - [OpenSTF](https://github.com/openstf) (2.x support API to control devices remotely.)
+- [Appium Java REPL](https://mobileboxlab.github.io/appium-java-repl/index.html)
 
 ## Documents
 
