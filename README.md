@@ -70,7 +70,6 @@ Of course it sometimes includes google's official one.
 - [mockito](https://github.com/nhaarman/mockito-kotlin) (Kotlin)
 - [powermock](https://github.com/jayway/powermock)
 - [easymock](https://github.com/easymock/easymock)
-- [rxmocks](https://github.com/novoda/rxmocks)
 - [mockk](https://github.com/mockk/mockk)
 
 ### Mock Server
