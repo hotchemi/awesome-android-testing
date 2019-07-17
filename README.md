@@ -17,6 +17,8 @@ Of course it sometimes includes google's official one.
 ### Library
 
 - [Burst](https://github.com/square/burst)
+- [Kluent](https://github.com/MarkusAmshove/Kluent)
+- [Expekt](https://github.com/winterbe/expekt)
 
 ## Integration Test
 
