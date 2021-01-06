@@ -13,6 +13,7 @@ Of course it sometimes includes google's official one.
 - [Robolectric](https://github.com/robolectric/robolectric)
 - [RoboSpock](https://github.com/robospock/RoboSpock)
 - [Spek](https://github.com/JetBrains/spek) (Kotlin)
+- [Kotest](https://kotest.io/) (Kotlin)
 
 ### Library
 
